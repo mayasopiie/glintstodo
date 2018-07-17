@@ -31,3 +31,12 @@
 ## _Our Team Members_
  1. Maya
  2. Dilla
+
+---
+
+
+ ## _Live Preview_
+ * [Figma Mockup](https://www.figma.com/file/08cora3KEH0RlYY67FAi7FTH/My-Todo-List)
+ * [Figma Prototype](https://www.figma.com/proto/08cora3KEH0RlYY67FAi7FTH/My-Todo-List?scaling=scale-down&node-id=1%3A147)
+
+
