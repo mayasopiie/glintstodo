@@ -30,4 +30,4 @@
 
 ## _Our Team Members_
  1. Maya
- 2. Dilla#glintstodo
+ 2. Dilla
