@@ -1,0 +1,19 @@
+.segment-add{
+    justify-content: center;
+}
+
+h1{
+    font-family: "Cookie", sans-serif;
+    font-size: 100px;
+}
+
+.segment-day{
+    margin: 50px 300px;
+    /* display: flex;
+    justify-content: space-around;
+    align-items: center; */
+}
+
+.segment-activity{
+    
+}
