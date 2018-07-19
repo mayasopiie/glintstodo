@@ -21,7 +21,7 @@ h1{
     font-size: 2em;
 }
 
-.segment-activity-unchecked{
+/* .segment-activity-unchecked{
     font-family: "Alegreya", serif;
     font-size: 1.5em;
     margin-left: 40px;
@@ -34,13 +34,36 @@ h1{
     background-color:rgba(93, 252, 241, 0.877);
     margin-left: 40px;
     padding-bottom: 10px;
+} */
+
+.segment-activity-unchecked{
+    font-family: "Alegreya", serif;
+    font-size: 1.5em;
+    margin: 5px 0px 5px 40px;
+    background-color: rgb(8, 190, 178);
+    border-radius: 18px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.segment-activity-unchecked:hover{
+    font-family: "Alegreya", serif;
+    font-size: 1.5em;
+    margin: 5px 0px 5px 40px;
+    background-color: rgba(2, 196, 179, 0.877);
+    border-radius: 18px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .segment-activity-checked{
     font-family: "Alegreya", serif;
-    text-decoration: line-through;
     font-size: 1.5em;
-    background-color: #56b0b3;
-    margin-left: 40px;
-    padding-top: 10px;
+    text-decoration: line-through;
+    margin: 5px 0px 5px 40px;
+    background-color: #50b47d;
+    border-radius: 18px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.segment-activity-title{
+    padding: 10px;
 }
