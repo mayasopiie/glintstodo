@@ -1,22 +1,38 @@
+body{
+    background-color: #4ECDC4;
+    color: #FFFFFF;
+}
+
 .segment-add{
     justify-content: center;
 }
 
 h1{
-    font-family: "Cookie", sans-serif;
-    font-size: 100px;
+    font-family: "Acme", sans-serif;
+    font-size: 50px;
+    color: #FFFFFF;
+    text-align: center;
+    margin: 20px;
 }
 
-.segment-day{
-    margin: 50px 300px;
-    /* display: flex;
-    justify-content: space-around;
-    align-items: center; */
+.segment-day-title{
+    margin: 20px 0px 15px 0px;
+    font-family: "Alegreya Sans", sans-serif;
+    font-size: 2em;
 }
 
-ul{
-    list-style-type: none;
+.segment-activity-unchecked{
+    font-family: "Alegreya", serif;
+    font-size: 1.5em;
+    margin-left: 40px;
+    padding-bottom: 10px;
 }
-hr{
-    
+
+.segment-activity-checked{
+    font-family: "Alegreya", serif;
+    text-decoration: line-through;
+    font-size: 1.5em;
+    background-color: #56b0b3;
+    margin-left: 40px;
+    padding-top: 10px;
 }
