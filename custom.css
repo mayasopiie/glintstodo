@@ -28,6 +28,14 @@ h1{
     padding-bottom: 10px;
 }
 
+.segment-activity-unchecked:hover{
+    font-family: "Alegreya", serif;
+    font-size: 1.5em;
+    background-color:rgba(93, 252, 241, 0.877);
+    margin-left: 40px;
+    padding-bottom: 10px;
+}
+
 .segment-activity-checked{
     font-family: "Alegreya", serif;
     text-decoration: line-through;
