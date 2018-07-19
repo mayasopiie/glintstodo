@@ -21,21 +21,6 @@ h1{
     font-size: 2em;
 }
 
-/* .segment-activity-unchecked{
-    font-family: "Alegreya", serif;
-    font-size: 1.5em;
-    margin-left: 40px;
-    padding-bottom: 10px;
-}
-
-.segment-activity-unchecked:hover{
-    font-family: "Alegreya", serif;
-    font-size: 1.5em;
-    background-color:rgba(93, 252, 241, 0.877);
-    margin-left: 40px;
-    padding-bottom: 10px;
-} */
-
 .segment-activity-unchecked{
     font-family: "Alegreya", serif;
     font-size: 1.5em;
@@ -66,4 +51,17 @@ h1{
 
 .segment-activity-title{
     padding: 10px;
+}
+
+.button{
+    border-color: #FFFFFF;
+    border-radius: 40px;
+    background-color:transparent;
+}
+
+.button:hover{
+    border-color: #4ECDC4;
+    border-radius: 40px;
+    background-color:#FFFFFF;
+    color: #4ECDC4;
 }
